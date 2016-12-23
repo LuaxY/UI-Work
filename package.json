@@ -1,0 +1,13 @@
+{
+  "name": "ui-work",
+  "version": "0.0.1",
+  "description": "UI Work",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Luax",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
